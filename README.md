@@ -1,5 +1,5 @@
-# Using Tutorial : https://www.onlinehacking.xyz/2021/07/FreeFire-Phishing-Hack-Termux.html.html
-
+# Using Tutorial :
+https://termux-tools.blogspot.com/2022/01/installation-tool-how-free-fire.html
 
 
   <p>&nbsp;</p><p><br /></p><p><br /></p><p><br /></p>
@@ -9,12 +9,13 @@
   
 
 
-<h1 align="center">Free Fire Phishing - OnlineHacking</h1>
+<h1 align="center">Free Fire Phishing - BOT HACKER</h1>
 <p align="center">
   FreeFire ID Hack Use Termux
 </p>
 <p align="center">
-<a href="https://www.onlinehacking.xyz/2021/07/FreeFire-Phishing-Hack-Termux.html.html"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="http://termux-tools.blogspot.com/2022/01/installation-tool-how-fire.html
+><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 
 </p>
